@@ -56,8 +56,8 @@
 #define USB_DESC_UF2_PID       0x805A
 #define USB_DESC_CDC_ONLY_PID  0x805A
 
-#define UF2_PRODUCT_NAME    "Bast FRONTIER"
-#define UF2_VOLUME_LABEL    "BAST FRONTIER"
+#define UF2_PRODUCT_NAME    "BAST FRONTIER"
+#define UF2_VOLUME_LABEL    "BASTFRONT"
 #define UF2_BOARD_ID        "Bast-frontier-v1"
 #define UF2_INDEX_URL       "https://www.electroniccats.com"
 
